@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Lab8.Models.Country>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@using (Html.BeginForm())
+{
+<div class="text-left">
+    <label for="firstCountry">Choose a country:</label>
+
+    <select name="firstCountry" id="firstCountry" runat="server">
+        @foreach (var item in Model)
+        {
+            <option value="@item.name">@item.name</option>
+        }
+    </select>
+    <p>How much money would you like to convert?</p>
+    <input type="text" id="value" name="value"><br><br>
+
+    <label for="secondCountry">Choose a country:</label>
+
+    <select name="secondCountry" id="secondCountry">
+        @foreach (var item in Model)
+        {
+            <option value="@item.name">@item.name</option>
+        }
+    </select>
+
+    <br><br>
+    <button type="submit">Convert</button>
+
+    @if (Model.Last().currency == null)
+    { 
+        <p>@Model.Last().name</p>
+    }
+</div>
+}

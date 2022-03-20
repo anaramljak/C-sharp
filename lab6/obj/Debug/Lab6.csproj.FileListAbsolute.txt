@@ -1,0 +1,63 @@
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\App.g.cs
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\FluentValidation.dll
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\FluentValidation.xml
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\Validators\Database1.mdf
+C:\Users\Ivan\source\repos\Lab6\Lab6\bin\Debug\Validators\Database1_log.ldf
+C:\Users\Ivan\source\repos\Lab6\Lab6\obj\Debug\Lab6_Content.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\Lab6.exe
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\Lab6.pdb
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\FluentValidation.dll
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\FluentValidation.xml
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\App.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6_Content.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\MainWindow.baml
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.exe
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\obj\Debug\Lab6.pdb
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\Validators\Database.mdf
+C:\Users\DT User2\Desktop\Sixth\vjezba-6-IvanIvancevic\Lab6\bin\Debug\Validators\Database_log.ldf
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\Validators\Database.mdf
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\Validators\Database_log.ldf
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\Lab6.exe
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\FluentValidation.dll
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\bin\Debug\FluentValidation.xml
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\MainWindow.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\App.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6_Content.g.cs
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\MainWindow.baml
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.g.resources
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.exe
+C:\Users\DT User2\Desktop\Sixth\vjezba6\Lab6\obj\Debug\Lab6.pdb

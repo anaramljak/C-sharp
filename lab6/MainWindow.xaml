@@ -1,0 +1,43 @@
+﻿<Window x:Class="Lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="32,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="158"><Run Text="Platitel"/><Run Text="j"/><Run Text=" (naziv/ime i adresa"/><Run Text=")"/><Run Text=": "/></TextBlock>
+        <TextBox HorizontalAlignment="Left" Height="94" Margin="32,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Name="Payer"/>
+        <TextBlock HorizontalAlignment="Left" Margin="32,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Primatelj"/><Run Text=" "/><Run Text="(naziv/ime i adresa"/><Run Text=")"/><Run Text=": "/></TextBlock>
+        <TextBox HorizontalAlignment="Left" Height="93" Margin="32,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Name="Recipient"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,13,0,0" TextWrapping="Wrap" Text="Hitno:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="294,13,0,0" TextWrapping="Wrap" Text="Valuta plaćanja:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="16" Margin="399,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="49" Name="Currency"/>
+        <TextBlock HorizontalAlignment="Left" Margin="480,13,0,0" TextWrapping="Wrap" Text="Iznos:" VerticalAlignment="Top" Height="19" Width="39"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="524,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" Name="Total"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,44,0,0" TextWrapping="Wrap" Text="IBAN ili broj računa platitelja:" VerticalAlignment="Top" Height="46" Width="129"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="329,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" Name="PayerIBAN"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,95,0,0" TextWrapping="Wrap" Text="Model:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="329,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Poziv na broj "/><Run Text="platitelja:"/></TextBlock>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="195,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Name="PayerModel"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="329,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" Name="PayerNumber"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,161,0,0" TextWrapping="Wrap" Text="IBAN ili broj računa primatelja" VerticalAlignment="Top" Height="35" Width="112"/>
+        <TextBox HorizontalAlignment="Left" Height="35" Margin="329,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" Name="RecipientIBAN"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,217,0,0" TextWrapping="Wrap" Text="Model:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="329,217,0,0" TextWrapping="Wrap" Text="Poziv na broj platitelja:" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="195,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Name="RecipientModel"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="329,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" Name="RecipientNumber"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Šifra namjene"/><Run Text=":"/></TextBlock>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="195,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Name="PurposeCode"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,315,0,0" TextWrapping="Wrap" Text="Datum izvršenja:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="329,282,0,0" TextWrapping="Wrap" Text="Opis plaćanja:" VerticalAlignment="Top" Height="49" Width="47"/>
+        <TextBox HorizontalAlignment="Left" Height="72" Margin="406,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Name="PaymentDescription"/>
+        <CheckBox Content="" HorizontalAlignment="Left" Margin="237,14,0,0" VerticalAlignment="Top" Name="Emergency"/>
+        <DatePicker HorizontalAlignment="Left" Margin="195,342,0,0" VerticalAlignment="Top" Width="112" Name="Date"/>
+        <Button Content="Prijavi" HorizontalAlignment="Left" Margin="693,383,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="32,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Search"/>
+        <Button Content="Pretraži" HorizontalAlignment="Left" Margin="51,383,0,0" VerticalAlignment="Top" Width="75" Click="Search_Click"/>
+
+    </Grid>
+</Window>
